@@ -19,4 +19,4 @@ I have obtained my PhD in 2019, supervised by [Lieven Clement](https://statomics
 
 ## Funding
 
-I am a postodoctoral fellow of the [Belgian American Educational Foundation (BAEF)](www.baef.be), and of the [Research Foundation Flanders (FWO)](www.fwo.be).
+I am a postodoctoral fellow of the [Belgian American Educational Foundation (BAEF)](https://www.baef.be), and of the [Research Foundation Flanders (FWO)](https://www.fwo.be).
