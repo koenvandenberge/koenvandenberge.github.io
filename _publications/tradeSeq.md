@@ -3,7 +3,7 @@ title: "Trajectory-based differential expression analysis for single-cell sequen
 collection: publications
 permalink: /publication/tradeSeq
 excerpt: 'This paper introduces a statistical method to perform differential gene expression analysis along or between lineages of a trajectory. The main data application of this paper is single-cell RNA-sequencing data, although it can also be used for other types of data, e.g. time-series bulk RNA-seq or single-cell ATAC-seq data.'
-date: 2015-10-01
+date: 2019-05-02
 venue: 'bioRxiv'
 paperurl: 'http://koenvandenberge.github.io/files/623397.full.pdf'
 ---
