@@ -14,19 +14,8 @@ Below is a list of selected publications and preprints. For a full list, please 
  - [Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1406-4)
  - [stageR: a general stage-wise method for controlling the gene-level false discovery rate in differential expression and differential transcript usage](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1277-0)
  
- # Collaborative papers
+# Collaborative papers
  
   - [A sex-inducing pheromone triggers cell cycle arrest and mate attraction in the diatom Seminavis robusta](https://www.nature.com/articles/srep19252)
   - [Neurogenomic profiling reveals distinct gene expression profiles between brain parts that are consistent in Ophthalmotilapia cichlids](https://www.frontiersin.org/articles/10.3389/fnins.2018.00136/full?report=reader)
  
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
