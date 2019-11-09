@@ -13,7 +13,7 @@ I support open science and open source software.
 
 ## Background
 
-I obtained a Msc. in Biology from Ghent University in 2013, and a Msc. in Statistical Data Analysis from Ghent University in 2014.
+I obtained a MSc. in Biology from Ghent University in 2013, and a MSc. in Statistical Data Analysis from Ghent University in 2014.
 I have finished my PhD in 2019, supervised by [Lieven Clement](https://statomics.github.io/), where I have developed statistical methods for differential expression analysis in bulk and single-cell RNA-sequencing applications.
 
 ## Funding
