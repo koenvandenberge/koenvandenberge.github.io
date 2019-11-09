@@ -4,8 +4,7 @@ collection: teaching
 type: "Undergraduate course for Biologists"
 permalink: /teaching/statsBio
 venue: "Ghent University"
-date: 2014-2018
 location: "Ghent, Belgium"
 ---
 
-Teaching all computer and written practical sessions. The Professor of the course is Prof. Lieven Clement.
+Teaching all computer and written practical sessions from 2014 to 2018. The Professor of the course is Prof. Lieven Clement.
