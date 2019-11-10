@@ -1,8 +1,3 @@
----
-layout: archive
-title: "All Talks test"
-author_profile: true
----
 
 # Invited Presentations
 
