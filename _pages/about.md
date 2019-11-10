@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at UC Berkeley and Ghent University, supervised by [Sandrine Dudoit](https://www.stat.berkeley.edu/users/sandrine/) and [Lieven Clement](https://statomics.github.io/), where I am developing statistical methods to analyze biological high-throughput sequencing data, e.g. (single-cell) RNA-seq data. My reserach interests include normalization, dimensionality reduction, differential (expression) analysis and multiple testing.
+I am a postdoctoral scholar at UC Berkeley and Ghent University, supervised by [Sandrine Dudoit](https://www.stat.berkeley.edu/users/sandrine/) and [Lieven Clement](https://statomics.github.io/), where I am developing statistical methods to analyze biological high-throughput sequencing data, e.g. (single-cell) RNA-seq data. My research interests include normalization, dimensionality reduction, differential (expression) analysis and multiple testing.
 I support open science and open source software.
 
 ## Background
