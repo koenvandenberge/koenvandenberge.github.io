@@ -14,8 +14,8 @@ I support open science and open source software.
 ## Background
 
 I obtained a MSc. in Biology from Ghent University in 2013, and a MSc. in Statistical Data Analysis from Ghent University in 2014.
-I have finished my PhD in 2019, supervised by [Lieven Clement](https://statomics.github.io/), where I have developed statistical methods for differential expression analysis in bulk and single-cell RNA-sequencing applications.
+I have finished my PhD in May 2019, supervised by [Lieven Clement](https://statomics.github.io/), where I have developed statistical methods for differential expression analysis in bulk and single-cell RNA-sequencing applications.
 
 ## Funding
 
-I am a postodoctoral fellow of the [Belgian American Educational Foundation (BAEF)](https://www.baef.be), and of the [Research Foundation Flanders (FWO)](https://www.fwo.be).
+I am a postodoctoral fellow of the [Belgian American Educational Foundation (BAEF)](https://www.baef.be), and of the [Research Foundation Flanders (FWO)](https://www.fwo.be). For my PhD, I obtained funding through a strategic PhD grant from the [Research Foundation Flanders (FWO)](https://www.fwo.be).
