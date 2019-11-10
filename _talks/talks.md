@@ -1,3 +1,9 @@
+---
+title: "All Talks test"
+permalink: /talks/talks
+---
+
+
 # Invited Presentations
 
  - Statistics in Genomics Seminar Series, University of California, Berkeley. May 2018.
