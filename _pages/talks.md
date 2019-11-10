@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "All Talks test"
 permalink: /talks/talks
+author_profile: true
 ---
 
 # Invited Presentations
