@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Publications"
+permalink: /talks/
+author_profile: true
+---
 
 # Invited Presentations
 
