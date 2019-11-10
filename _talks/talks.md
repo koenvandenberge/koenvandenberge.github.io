@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "All Talks test"
+title: "Talks and Presentations"
 permalink: /talks/talks
 author_profile: true
 ---
@@ -12,7 +12,7 @@ author_profile: true
  - Annual Meeting of the Belgian Statistical Society, Leuven, Belgium. October 2015.
  *Quantifying expression divergence of duplicated genes with microarrays*.
  
- # Contributed Presentations
+# Contributed Presentations
  
  - f-Tales, Ghent, Belgium. September 2018. *Continuous differential expression analysis for single-cell RNA-seq data.*
  - Genome Informatics, Hinxton, UK. September 2018. *Discrete and continuous differential expression analysis for single-cell RNA-seq data.*
