@@ -18,4 +18,4 @@ I have finished my PhD in May 2019, supervised by [Lieven Clement](https://stato
 
 ## Funding
 
-I am a postodoctoral fellow of the [Belgian American Educational Foundation (BAEF)](http://www.baef.be/documents/home.xml?lang=en), and of the [Research Foundation Flanders (FWO)](https://www.fwo.be). For my PhD, I obtained funding through a strategic PhD grant from the [Research Foundation Flanders (FWO)](https://www.fwo.be).
+I am a postdoctoral fellow of the [Belgian American Educational Foundation (BAEF)](http://www.baef.be/documents/home.xml?lang=en), and of the [Research Foundation Flanders (FWO)](https://www.fwo.be). For my PhD, I obtained funding through a strategic PhD grant from the [Research Foundation Flanders (FWO)](https://www.fwo.be).
