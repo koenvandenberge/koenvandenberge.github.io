@@ -16,6 +16,8 @@ Below is a list of selected publications and preprints. For a full list, please 
  
 # Collaborative papers
  
-  - [A sex-inducing pheromone triggers cell cycle arrest and mate attraction in the diatom Seminavis robusta](https://www.nature.com/articles/srep19252)
-  - [Neurogenomic profiling reveals distinct gene expression profiles between brain parts that are consistent in Ophthalmotilapia cichlids](https://www.frontiersin.org/articles/10.3389/fnins.2018.00136/full?report=reader)
+ - [Mating type specific transcriptomic response to sex inducing pheromone in the pennate diatom Seminavis robusta](https://www.nature.com/articles/s41396-020-00797-7)
+ - [Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system suggests mechanisms underlying COVID-19-associated anosmia](https://advances.sciencemag.org/content/6/31/eabc5801.abstract)
+ - [Neurogenomic profiling reveals distinct gene expression profiles between brain parts that are consistent in Ophthalmotilapia cichlids](https://www.frontiersin.org/articles/10.3389/fnins.2018.00136/full?report=reader)
+ - [A sex-inducing pheromone triggers cell cycle arrest and mate attraction in the diatom Seminavis robusta](https://www.nature.com/articles/srep19252)
  
