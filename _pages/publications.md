@@ -10,7 +10,7 @@ Below is a list of selected publications and preprints. For a full list, please 
 # Statistical methodology
 
  - [Hierarchical community detection by recursive partitioning
-](https://doi.org/10.1080/01621459.2020.1833888)
+](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1833888)
  - [Trajectory-based differential expression analysis for single-cell sequencing data](https://www.nature.com/articles/s41467-020-14766-3)
  - (Review) [RNA Sequencing Data: Hitchhiker's Guide to Expression Analysis](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-072018-021255)
  - [Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1406-4)
