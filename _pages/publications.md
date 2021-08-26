@@ -17,7 +17,7 @@ Below is a list of selected publications and preprints. For a full list, please 
 - **Van den Berge K.**, Roux de B'ezieux H., Street K., Saelens W., Cannoodt R., Saeys Y., Dudoit S.&dagger;, Clement L.&dagger; (2020). [Trajectory-based differential expression analysis for single-cell sequencing data](https://www.nature.com/articles/s41467-020-14766-3). *Nature Communications* 11:1201.
 - **Van den Berge K.\***, Hembach K.M.\*, Soneson C.\*, Tiberi S.\*, Clement L.&dagger;, Love M.I.&dagger;, Patro R.&dagger;, Robinson M.D.&dagger; (2019) [RNA Sequencing Data: Hitchhiker's Guide to Expression Analysis](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-072018-021255). *Annual Review of Biomedical Data Science* 2:139-173.
 - **Van den Berge K.\***, Perraudeau F.\*, Soneson C., Love M.I., Risso D., Vert J.P., Robinson M.D., Dudoit S., Clement L. (2018). [Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1406-4). *Genome Biology* 19:24.
-- **Van den Berge K.\***, Soneson C., Robinson M.D., Clement L. (2017). [stageR: a general stage-wise method for controlling the gene-level false discovery rate in differential expression and differential transcript usage](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1277-0). *Genome Biology* 18:151.
+- **Van den Berge K.**, Soneson C., Robinson M.D., Clement L. (2017). [stageR: a general stage-wise method for controlling the gene-level false discovery rate in differential expression and differential transcript usage](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1277-0). *Genome Biology* 18:151.
  
 # Collaborative papers
  
