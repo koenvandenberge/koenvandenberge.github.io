@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Koen Van den Berge"
 title_separator          : "-"
 name                     : &name "Koen Van den Berge"
-description              : &description "Postdoctoral scholar in Statistical Genomics"
+description              : &description "Researcher in Statistical Genomics"
 url                      : https://koenvandenberge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koenvandenberge/koenvandenberge.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Koen Van den Berge"
   avatar           : "me.png"
-  bio              : "Postdoctoral Scholar at UC Berkeley and Ghent University. I develop statistical methods for biological high-throughput sequencing data analysis."
-  location         : "Berkeley, California / Ghent, Belgium"
+  bio              : "Researcher in statistical genomics. I develop statistical methods for biological high-throughput sequencing data analysis."
+  location         : "Belgium"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.be/citations?user=3PHGkxkAAAAJ&hl=en"
